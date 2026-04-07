@@ -1,0 +1,1 @@
+a simple project to check of the github can be used to fake a commit
